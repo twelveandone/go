@@ -1,3 +1,6 @@
+# original 
+Copy from  https://github.com/sciter-sdk/go-sciter/releases/tag/go-1.9
+
 # Attention
 
 The ownership of project is transferred to this new organization. 
